@@ -1,5 +1,5 @@
 import { useContext } from "react";
-import Intro from "./components/intro/Intro"
+import Intro from "./components/Intro/Intro"
 import About from "./components/about/About"
 import MyworkList from "./components/MyworkList/MyworkList";
 import Contactme from "./components/contact/contact";
