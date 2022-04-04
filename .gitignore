@@ -18,4 +18,8 @@
 
 npm-debug.log*
 yarn-debug.log*
+<<<<<<< HEAD
 yarn-error.log*
+=======
+yarn-error.log*
+>>>>>>> parent of ee9117c (finishing email section and darkmode toggle)
