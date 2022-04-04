@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/mmeans51/Michael-Means-Portfolio.git/static/css/main.e62f8cb2.css",
+    "main.js": "/mmeans51/Michael-Means-Portfolio.git/static/js/main.2f25dda1.js",
+    "static/media/screencapture-felipezintzun-github-io-watchopedia-2022-03-31-18_59_08.jpg": "/mmeans51/Michael-Means-Portfolio.git/static/media/screencapture-felipezintzun-github-io-watchopedia-2022-03-31-18_59_08.cbc298b144a564680a6d.jpg",
+    "static/media/screencapture-mmeans51-github-io-run-buddy-2022-03-30-16_24_11.jpg": "/mmeans51/Michael-Means-Portfolio.git/static/media/screencapture-mmeans51-github-io-run-buddy-2022-03-30-16_24_11.81dd0187a70408b93eb3.jpg",
+    "static/media/screencapture-teksess-herokuapp-2022-03-30-20_23_09.jpg": "/mmeans51/Michael-Means-Portfolio.git/static/media/screencapture-teksess-herokuapp-2022-03-30-20_23_09.eda1b456e048a29453f6.jpg",
+    "static/media/hiking-removebg-preview.png": "/mmeans51/Michael-Means-Portfolio.git/static/media/hiking-removebg-preview.90ff5ec1d9d60242c7ad.png",
+    "static/media/drumming.jpg": "/mmeans51/Michael-Means-Portfolio.git/static/media/drumming.ecd1dc1a123c03b516b3.jpg",
+    "static/media/address.png": "/mmeans51/Michael-Means-Portfolio.git/static/media/address.a01cb8cc428702f30bec.png",
+    "static/media/codingcert.jpg": "/mmeans51/Michael-Means-Portfolio.git/static/media/codingcert.46d5e5145d7af6f1d10f.jpg",
+    "static/media/email.png": "/mmeans51/Michael-Means-Portfolio.git/static/media/email.a49e015815e3ac6d2bd3.png",
+    "static/media/sun.png": "/mmeans51/Michael-Means-Portfolio.git/static/media/sun.f794832ad72b90c61eb7.png",
+    "static/media/phone.png": "/mmeans51/Michael-Means-Portfolio.git/static/media/phone.d90a6d23cf5129d853bb.png",
+    "static/media/moon.png": "/mmeans51/Michael-Means-Portfolio.git/static/media/moon.3bea3d398a25611d421b.png",
+    "index.html": "/mmeans51/Michael-Means-Portfolio.git/index.html",
+    "main.e62f8cb2.css.map": "/mmeans51/Michael-Means-Portfolio.git/static/css/main.e62f8cb2.css.map",
+    "main.2f25dda1.js.map": "/mmeans51/Michael-Means-Portfolio.git/static/js/main.2f25dda1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e62f8cb2.css",
+    "static/js/main.2f25dda1.js"
+  ]
+}
