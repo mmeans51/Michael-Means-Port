@@ -1,4 +1,4 @@
-import "./about.css";
+import "./About.css";
 import Award from "../../img/award.png";
 import Drums from "../../img/drumming.jpg"
 
